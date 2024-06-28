@@ -41,8 +41,6 @@ Users should be able to:
 
 ### Entity Relationship Diagram (ERD)
 
-![ER Diagram](link_to_your_er_diagram_image)
-
 ### Relationships
 
 - **Country - City:** One-to-Many relationship where a country can have multiple cities.
